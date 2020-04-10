@@ -82,4 +82,3 @@ async function initWorkout() {
   }
   
   initWorkout();
-  
